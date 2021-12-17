@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.min-h-screen-100 {
+  min-height: 100vh;
+}
+.width-height-24 {
+  min-width: 24px;
+  min-height: 24px;
+}
+.min-w-card-list {
+  min-width: 436px !important;
+}
